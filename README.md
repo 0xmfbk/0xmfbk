@@ -4,7 +4,7 @@
   <h3>Cybersecurity Engineer | Penetration Tester | Red Teamer</h3>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif" />
+<img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-photo/dnipro-ukraine-31-jan-2024-600nw-2432138019.jpg" />
 
 <h2 align="left">Hey 👋 What's up?</h2>
 
