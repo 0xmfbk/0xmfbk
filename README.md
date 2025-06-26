@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="img.png" alt="Project Logo" />
   <h1>Hi 👋, I'm 0xmfbk</h1>
   <h3>Cybersecurity Engineer | Penetration Tester | Red Teamer</h3>
 </div>
