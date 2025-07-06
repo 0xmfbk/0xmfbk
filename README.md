@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=0xmfbk&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Cybersecurity%20Engineer%20%7C%20Penetration%20Tester%20%7C%20Red%20Teamer&descAlignY=51&descAlign=62)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=0xmfbk&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Cybersecurity%20Engineer%20%7C%20Penetration%20Tester%20%7C%20Red%20Teamer&descAlignY=51&descAlign=50)
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+the+Matrix...;Cybersecurity+Engineer;Penetration+Tester;Red+Team+Specialist;Bug+Hunter+Since+2022;Cyber+Puzzle+Solver)](https://git.io/typing-svg)
     
