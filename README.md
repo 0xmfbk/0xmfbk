@@ -1,5 +1,3 @@
-# 🛡️ Welcome to My Cyber Arsenal
-
 <div align="center">
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=0xmfbk&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Cybersecurity%20Engineer%20%7C%20Penetration%20Tester%20%7C%20Red%20Teamer&descAlignY=51&descAlign=62)
