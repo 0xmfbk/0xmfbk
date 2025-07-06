@@ -120,7 +120,7 @@ location: "Cyberspace 🌐"
 <img align="right" alt="Community GIF" width="300" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ### 🤝 Community Involvement
-- 🎤 **Conference Speaker** - DEF CON, Black Hat, BSides
+- 🎤 **Conferences** - DEF CON, Black Hat, BSides
 - 📚 **Technical Writer** - Security blogs and research papers
 - 🎓 **Mentor** - Guiding 50+ aspiring cybersecurity professionals
 - 🏆 **CTF Organizer** - Hosting capture-the-flag competitions
