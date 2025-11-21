@@ -2,7 +2,7 @@
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=0xmfbk&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Cybersecurity%20Engineer%20%7C%20Penetration%20Tester%20%7C%20Red%20Teamer&descAlignY=51&descAlign=50)
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+the+Matrix...;Cybersecurity+Engineer;Penetration+Tester;Red+Team+Specialist;Bug+Hunter+Since+2022;Cyber+Puzzle+Solver)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+the+Matrix...;Securtiy+Researcher;Web+Application+Penetration+Testing;Specialist;Bug+Hunter+Since+2022;Cyber+Puzzle+Solver)](https://git.io/typing-svg)
     
 </div>
 
@@ -14,25 +14,9 @@
 
 ```yaml
 name: "0xmfbk"
-role: "Cybersecurity Engineer"
-specialization: ["Penetration Testing", "Red Teaming", "Vulnerability Assessment"]
-experience: "4+ years in cybersecurity"
-learning: "Advanced Penetration Testing & AI Security"
-passion: "Solving cyber puzzles and securing the digital world"
-location: "Cyberspace 🌐"
+role: "Security Researcher"
+pecialization: ["Web Application Penetration Testing"]
 ```
-
-### 🎯 Current Focus
-- 🔍 **Advanced Penetration Testing** - Mastering complex attack vectors
-- 🛡️ **Red Team Operations** - Simulating real-world threats
-- 📚 **Knowledge Sharing** - Teaching and mentoring in cybersecurity
-
-### 🏆 Achievements
-- 🐛 **Bug Bounty Hunter** since 2022
-- 🎖️ **OSCP Certified** (Offensive Security Certified Professional)
-- 🏅 **Hall of Fame** in multiple companies
----
-
 ## 💻 Tech Arsenal
 
 ### 🔧 Programming Languages
@@ -72,7 +56,6 @@ location: "Cyberspace 🌐"
   ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
   ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
   ![Nmap](https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white)
-  ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
   
 </div>
 
@@ -119,18 +102,6 @@ location: "Cyberspace 🌐"
 
 <img align="right" alt="Community GIF" width="300" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### 🤝 Community Involvement
-- 🎤 **Conferences** - DEF CON, Black Hat, BSides
-- 📚 **Technical Writer** - Security blogs and research papers
-- 🎓 **Mentor** - Guiding 50+ aspiring cybersecurity professionals
-- 🏆 **CTF Organizer** - Hosting capture-the-flag competitions
-
-### 🎯 Workshops & Training
-- **Advanced Penetration Testing** - Corporate training sessions
-- **Web Application Security** - OWASP Top 10 deep dives
-- **Red Team Operations** - Simulated attack scenarios
-- **Incident Response** - Crisis management and forensics
-
 ---
 
 ## 🎮 Hobbies & Interests
@@ -141,7 +112,6 @@ location: "Cyberspace 🌐"
   ┌─────────────────────────────────────────────────────────────┐
   │                    When I'm not hacking...                  │
   ├─────────────────────────────────────────────────────────────┤
-  │  🔍 Exploring zero-day vulnerabilities                      │
   │  🛠️ Building custom security tools                          │
   │  🧩 Solving complex CTF challenges                          │
   │  📖 Reading security research papers                        │
