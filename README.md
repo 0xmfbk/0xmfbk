@@ -1,143 +1,358 @@
 <div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=0xmfbk&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Security%20Researcher%20%7C%20Web%20Application%20Penetration%20Testing&descAlignY=51&descAlign=50)
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+the+Matrix...;Securtiy+Researcher;Web+Application+Penetration+Testing)](https://git.io/typing-svg)
-    
+
+```
+ ██████╗ ██╗  ██╗███╗   ███╗███████╗██████╗ ██╗  ██╗
+██╔═████╗╚██╗██╔╝████╗ ████║██╔════╝██╔══██╗██║ ██╔╝
+██║██╔██║ ╚███╔╝ ██╔████╔██║█████╗  ██████╔╝█████╔╝ 
+████╔╝██║ ██╔██╗ ██║╚██╔╝██║██╔══╝  ██╔══██╗██╔═██╗ 
+╚██████╔╝██╔╝ ██╗██║ ╚═╝ ██║██║     ██████╔╝██║  ██╗
+ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═════╝ ╚═╝  ╚═╝
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%24+./exploit.sh+--target+vulnerabilities;%24+Access+Granted...+Welcome+0xmfbk" alt="Typing SVG" />
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
+  
+```
+01001000 01000001 01000011 01001011 00100000 01010100 01001000 01000101 00100000 01010000 01001100 01000001 01001110 01000101 01010100
+```
 
-<img align="right" alt="Hacker GIF" width="400" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" />
+</div>
+
+## ⚡ `$ whoami`
+
+```bash
+┌──(0xmfbk㉿kali)-[~/security]
+└─$ cat /etc/profile.d/0xmfbk.conf
+```
 
 ```yaml
-name: "0xmfbk"
-role: "Security Researcher"
-pecialization: ["Web Application Penetration Testing"]
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│   ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗                      │
+│   ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝                      │
+│   ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗                        │
+│   ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝                        │
+│   ██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗                      │
+│   ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝                      │
+│                                                                             │
+│   name:           "0xmfbk"                                                  │
+│   role:           "Security Researcher & Penetration Tester"                │
+│   location:       "127.0.0.1"                                               │
+│   status:         "Exploiting vulnerabilities ethically"                    │
+│                                                                             │
+│   specialization:                                                           │
+│     - Web Application Penetration Testing                                   │
+│     - Vulnerability Research & Analysis                                     │
+│     - Red Team Operations                                                   │
+│     - Exploit Development                                                   │
+│                                                                             │
+│   current_focus:  "Breaking things to make them stronger"                   │
+│   philosophy:     "There is no patch for human stupidity"                   │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
-### 🔧 Programming Languages
+
+---
+
+## 🔓 `$ cat /proc/skills/attack_vectors`
 
 <div align="center">
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-  
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  ░█▀▀░█░█░▀█▀░█░░░█░░░░░█▀▀░█▀▀░▀█▀                                          ║
+║  ░▀▀█░█▀▄░░█░░█░░░█░░░░░▀▀█░█▀▀░░█░                                          ║
+║  ░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀▀▀░░░▀▀▀░▀▀▀░░▀░                                          ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
-### 🌐 Web Technologies
+### 🖥️ `>> Offensive Security Arsenal`
+
 <div align="center">
-  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
+
+| Reconnaissance | Exploitation | Post-Exploitation | Reporting |
+|:---:|:---:|:---:|:---:|
+| ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white) | ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white) | ![Mimikatz](https://img.shields.io/badge/Mimikatz-FF0000?style=flat-square&logoColor=white) | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) |
+| ![Shodan](https://img.shields.io/badge/Shodan-D32F2F?style=flat-square&logo=shodan&logoColor=white) | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white) | ![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-000000?style=flat-square&logoColor=white) | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
+| ![Recon-ng](https://img.shields.io/badge/Recon--ng-2E8B57?style=flat-square&logoColor=white) | ![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat-square&logoColor=white) | ![Empire](https://img.shields.io/badge/Empire-8B0000?style=flat-square&logoColor=white) | ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) |
+| ![theHarvester](https://img.shields.io/badge/theHarvester-228B22?style=flat-square&logoColor=white) | ![Hydra](https://img.shields.io/badge/Hydra-00CED1?style=flat-square&logoColor=white) | ![BloodHound](https://img.shields.io/badge/BloodHound-DC143C?style=flat-square&logoColor=white) | ![CherryTree](https://img.shields.io/badge/CherryTree-8B4513?style=flat-square&logoColor=white) |
+
 </div>
 
-### 🛡️ Cybersecurity Tools
-<div align="center">
-  
-  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-  ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-  ![Nmap](https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white)
-  
-</div>
+### 🛡️ `>> Core Competencies`
 
-### 🗄️ Databases & Cloud
 <div align="center">
-  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│   [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░]  95%   Web App Penetration Testing                │
+│   [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░]  90%   Network Security Assessment                │
+│   [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░]  85%   Exploit Development                        │
+│   [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░]  85%   Reverse Engineering                        │
+│   [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░]  80%   Malware Analysis                           │
+│   [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░]  80%   OSINT & Reconnaissance                     │
+│   [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░]  75%   Red Team Operations                        │
+│   [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░]  70%   Cloud Security (AWS/GCP/Azure)             │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 💻 `$ ls -la /usr/bin/languages`
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xmfbk&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=ff6b6b"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmfbk&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff"/>
-  
-</div>
 
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xmfbk&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b"/>
-  
-</div>
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄   ║
+║   █ PROGRAMMING LANGUAGES & FRAMEWORKS                                    █   ║
+║   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀   ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
 
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xmfbk&theme=redical&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff"/>
-  
-</div>
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00ff00)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=00ff00)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=00ff00)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=00ff00)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00ff00)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logoColor=00ff00)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=00ff00)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=00ff00)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=00ff00)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00ff00)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=00ff00)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=00ff00)
 
----
-
-
-## 🌟 Community & Contributions
-
-<img align="right" alt="Community GIF" width="300" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
----
-
-## 🎮 Hobbies & Interests
-
-<div align="center">
-  
-  ```ascii
-  ┌─────────────────────────────────────────────────────────────┐
-  │                    When I'm not hacking...                  │
-  ├─────────────────────────────────────────────────────────────┤
-  │  🛠️ Building custom security tools                          │
-  │  🧩 Solving complex CTF challenges                          │
-  │  📖 Reading security research papers                        │
-  │  🎯 Competing in bug bounty programs                        │
-  │  🏃 Running & fitness (clear mind, sharp focus)             │
-  │  ☕ Coffee brewing (fuel for late-night coding)             │
-  └─────────────────────────────────────────────────────────────┘
-  ```
-  
-</div>
-
-
-## 🔒 Security Quote
-
-<div align="center">
-  
-  > *"In cybersecurity, there are two types of companies: those that have been hacked, and those that will be hacked. My job is to make sure you're prepared for both."*
-  
-  <img src="https://komarev.com/ghpvc/?username=0xmfbk&label=Profile%20Views&color=red&style=flat-square" alt="Profile Views" />
-  
 </div>
 
 ---
 
+## 🔧 `$ cat /etc/tools/arsenal.conf`
+
 <div align="center">
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  ╔═╗╔═╗╔═╗╦ ╦╦═╗╦╔╦╗╦ ╦  ╔╦╗╔═╗╔═╗╦  ╦╔═╦╔╦╗                                ┃
+┃  ╚═╗║╣ ║  ║ ║╠╦╝║ ║ ╚╦╝   ║ ║ ║║ ║║  ╠╩╗║ ║                                 ┃
+┃  ╚═╝╚═╝╚═╝╚═╝╩╚═╩ ╩  ╩    ╩ ╚═╝╚═╝╩═╝╩ ╩╩ ╩                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🐧 Operating Systems
+```bash
+$ uname -a
+```
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=00ff00)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E3A3?style=flat-square&logo=linux&logoColor=black)
+![BlackArch](https://img.shields.io/badge/BlackArch-1793D1?style=flat-square&logo=arch-linux&logoColor=00ff00)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=00ff00)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=00ff00)
+
+</td>
+<td width="50%">
+
+### 🌐 Web Security
+```bash
+$ nikto -h target
+```
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=00ff00)
+![ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logoColor=00ff00)
+![Nuclei](https://img.shields.io/badge/Nuclei-5C2D91?style=flat-square&logoColor=00ff00)
+![Ffuf](https://img.shields.io/badge/Ffuf-FF6600?style=flat-square&logoColor=00ff00)
+![Gobuster](https://img.shields.io/badge/Gobuster-00CED1?style=flat-square&logoColor=00ff00)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📡 Network Analysis
+```bash
+$ wireshark -i eth0
+```
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=00ff00)
+![Tcpdump](https://img.shields.io/badge/Tcpdump-4B275F?style=flat-square&logoColor=00ff00)
+![Netcat](https://img.shields.io/badge/Netcat-000000?style=flat-square&logoColor=00ff00)
+![Masscan](https://img.shields.io/badge/Masscan-DC143C?style=flat-square&logoColor=00ff00)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-00008B?style=flat-square&logoColor=00ff00)
+
+</td>
+<td width="50%">
+
+### ☁️ Cloud & DevSecOps
+```bash
+$ terraform plan
+```
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=00ff00)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=00ff00)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=00ff00)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=00ff00)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=00ff00)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 `$ ./stats.sh --verbose`
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ░██████╗████████╗░█████╗░████████╗░██████╗                                 ║
+║   ██╔════╝╚══██╔══╝██╔══██╗╚══██╔══╝██╔════╝                                 ║
+║   ╚█████╗░░░░██║░░░███████║░░░██║░░░╚█████╗░                                 ║
+║   ░╚═══██╗░░░██║░░░██╔══██║░░░██║░░░░╚═══██╗                                 ║
+║   ██████╔╝░░░██║░░░██║░░██║░░░██║░░░██████╔╝                                 ║
+║   ╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝░░░╚═╝░░░╚═════╝░                                 ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xmfbk&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&ring_color=00ff00"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmfbk&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xmfbk&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff0000&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=00ff00&sideNums=00ff00&dates=00ff00"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xmfbk&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=ff0000&area=true&area_color=00ff00"/>
+
+</div>
+
+---
+
+## 🏆 `$ cat /var/log/achievements.log`
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│   ╔═╗╔═╗╦ ╦╦╔═╗╦  ╦╔═╗╔╦╗╔═╗╔╗╔╔╦╗╔═╗                                       │
+│   ╠═╣║  ╠═╣║║╣ ╚╗╔╝║╣ ║║║║╣ ║║║ ║ ╚═╗                                       │
+│   ╩ ╩╚═╝╩ ╩╩╚═╝ ╚╝ ╚═╝╩ ╩╚═╝╝╚╝ ╩ ╚═╝                                       │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=0xmfbk&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+<div align="center">
+
+| 🎯 Platform | 🏅 Achievement | 📈 Status |
+|:---:|:---:|:---:|
+| ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black) | Pro Hacker | `[ACTIVE]` |
+| ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=00ff00) | Top 1% | `[ACTIVE]` |
+| ![BugCrowd](https://img.shields.io/badge/BugCrowd-F26822?style=flat-square&logo=bugcrowd&logoColor=white) | Researcher | `[HUNTING]` |
+| ![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=00ff00) | Researcher | `[HUNTING]` |
+
+</div>
+
+---
+
+## 🎯 `$ cat /etc/motd`
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   "The quieter you become, the more you are able to hear."                   ║
+║                                                    - Kali Linux              ║
+║                                                                              ║
+║   "In a world full of locked doors, the man with the key is king.            ║
+║    And honey, you should see me in a crown."                                 ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+```
+  ██████╗ ██╗███╗   ██╗ █████╗ ██████╗ ██╗   ██╗    ██████╗  █████╗ ██╗███╗   ██╗
+  ██╔══██╗██║████╗  ██║██╔══██╗██╔══██╗╚██╗ ██╔╝    ██╔══██╗██╔══██╗██║████╗  ██║
+  ██████╔╝██║██╔██╗ ██║███████║██████╔╝ ╚████╔╝     ██████╔╝███████║██║██╔██╗ ██║
+  ██╔══██╗██║██║╚██╗██║██╔══██║██╔══██╗  ╚██╔╝      ██╔══██╗██╔══██║██║██║╚██╗██║
+  ██████╔╝██║██║ ╚████║██║  ██║██║  ██║   ██║       ██║  ██║██║  ██║██║██║ ╚████║
+  ╚═════╝ ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
   
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer&animation=fadeIn)
-  
-  **⚡ "Stay curious, stay secure!" ⚡**
-  
+  01001000 01000001 01000011 01001011 01000101 01010010 00100000 01001101 01001111 01000100 01000101
+```
+
+</div>
+
+---
+
+## 📡 `$ netstat -an | grep ESTABLISHED`
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│   ╔═╗╔═╗╔╗╔╔╗╔╔═╗╔═╗╔╦╗                                                     │
+│   ║  ║ ║║║║║║║║╣ ║   ║                                                      │
+│   ╚═╝╚═╝╝╚╝╝╚╝╚═╝╚═╝ ╩                                                      │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=00ff00&color=0d1117)](https://twitter.com/0xmfbk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00ff00&color=0d1117)](https://linkedin.com/in/0xmfbk)
+[![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=00ff00&color=0d1117)](mailto:0xmfbk@protonmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=00ff00&color=0d1117)](https://discord.gg/0xmfbk)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│                          SYSTEM STATUS: ONLINE                              │
+│                                                                             │
+│    ████████████████████████████████████████████████████████████████████     │
+│    █                                                                  █     │
+│    █   [*] Scanning for vulnerabilities...                            █     │
+│    █   [+] Target acquired                                            █     │
+│    █   [+] Exploit deployed                                           █     │
+│    █   [+] Access granted                                             █     │
+│    █   [*] Maintaining persistence...                                 █     │
+│    █                                                                  █     │
+│    █   root@0xmfbk:~# echo "Thanks for visiting!"                     █     │
+│    █   Thanks for visiting!                                           █     │
+│    █                                                                  █     │
+│    ████████████████████████████████████████████████████████████████████     │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer&animation=fadeIn"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=0xmfbk&label=TARGETS%20SCANNED&color=00ff00&style=for-the-badge)
+
+**`[ SYSTEM UPTIME: ∞ | VULNERABILITIES FOUND: COUNTLESS | COFFEE CONSUMED: ████████████ ]`**
+
 </div>
