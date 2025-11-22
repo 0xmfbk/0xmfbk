@@ -16,10 +16,6 @@
 
 </div>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=0xmfbk&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/0xmfbk)
-
-</div>
-
 ---
 
 <img align="right" alt="Hacking" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJxY2t6N2RqNWF6OWZ1dWRxbWNxNnBzOWV5cWRqNmF1cWJlbDVqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif">
