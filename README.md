@@ -1,17 +1,20 @@
 <div align="center">
 
 ```
- ██████╗ ██╗  ██╗███╗   ███╗███████╗██████╗ ██╗  ██╗
-██╔═████╗╚██╗██╔╝████╗ ████║██╔════╝██╔══██╗██║ ██╔╝
-██║██╔██║ ╚███╔╝ ██╔████╔██║█████╗  ██████╔╝█████╔╝ 
-████╔╝██║ ██╔██╗ ██║╚██╔╝██║██╔══╝  ██╔══██╗██╔═██╗ 
-╚██████╔╝██╔╝ ██╗██║ ╚═╝ ██║██║     ██████╔╝██║  ██╗
- ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═════╝ ╚═╝  ╚═╝
+  ┌─────────────────────────────────────────────────────────────────────┐
+  │                                                                     │
+  │   $  curl -X POST https://target.com -d "id=1' OR '1'='1"           │
+  │   $  sqlmap -u "https://target.com?id=1" --dbs --batch              │
+  │   $  nuclei -u https://target.com -t cves/                          │
+  │   $  ffuf -u https://target.com/FUZZ -w wordlist.txt                │
+  │   $  burpsuite --proxy-port=8080 --intercept                        │
+  │                                                                     │
+  └─────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&lines=Security+Researcher+%7C+Web+Application+Penetration+Testing" alt="Typing SVG" />
+[![Profile Views](https://komarev.com/ghpvc/?username=0xmfbk&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/0xmfbk)
 
-<br>
+</div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=0xmfbk&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/0xmfbk)
 
