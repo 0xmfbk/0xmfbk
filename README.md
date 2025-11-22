@@ -17,8 +17,6 @@ name: "0xmfbk"
 role: "Security Researcher"
 pecialization: ["Web Application Penetration Testing"]
 ```
-## 💻 Tech Arsenal
-
 ### 🔧 Programming Languages
 
 <div align="center">
