@@ -9,7 +9,7 @@
  ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═════╝ ╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Security+Researcher;Penetration+Tester;Red+Team+Operator;Exploit+Developer;Breaking+Things+to+Make+Them+Stronger" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&lines=Security+Researcher+%7C+Web+Application+Penetration+Testing" alt="Typing SVG" />
 
 <br>
 
