@@ -1,0 +1,279 @@
+
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#0d1117;font-family:'Courier New',monospace}
+.page{background:#0d1117;padding:2rem 1.5rem;min-height:100vh}
+
+.hero{border:1px solid #21262d;border-radius:12px;padding:2rem;margin-bottom:1.5rem;background:#0d1117;overflow:hidden}
+.scan-line{height:2px;background:#3fb950;width:0%;transition:width 1.2s ease;margin-bottom:1.5rem}
+.hero-top{display:flex;align-items:center;gap:1.5rem;margin-bottom:1.5rem}
+.avatar{width:64px;height:64px;border-radius:50%;border:2px solid #3fb950;display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:700;color:#3fb950;flex-shrink:0;background:#0d1117}
+.hero-text .handle{font-size:22px;font-weight:700;color:#e6edf3;letter-spacing:0.02em}
+.hero-text .role{font-size:13px;color:#3fb950;margin-top:4px;font-family:'Courier New',monospace}
+.hero-text .tagline{font-size:12px;color:#6e7681;margin-top:6px;line-height:1.5}
+.status-dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:#3fb950;margin-right:6px;animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:0.3}}
+
+.typing{font-size:13px;color:#58a6ff;min-height:20px;margin-bottom:1rem}
+.cursor{display:inline-block;width:2px;height:14px;background:#58a6ff;animation:blink 1s infinite;vertical-align:middle;margin-left:2px}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin-bottom:1rem}
+.grid4{display:grid;grid-template-columns:repeat(4,1fr);gap:0.75rem;margin-bottom:1.5rem}
+.stat-card{background:#161b22;border:1px solid #21262d;border-radius:8px;padding:1rem;text-align:center}
+.stat-card .num{font-size:24px;font-weight:700;color:#e6edf3;font-family:'Courier New',monospace}
+.stat-card .lbl{font-size:11px;color:#6e7681;margin-top:4px;text-transform:uppercase;letter-spacing:0.06em}
+.stat-card .num.green{color:#3fb950}
+.stat-card .num.blue{color:#58a6ff}
+.stat-card .num.orange{color:#f0883e}
+.stat-card .num.red{color:#ff7b72}
+
+.section{background:#161b22;border:1px solid #21262d;border-radius:12px;padding:1.5rem;margin-bottom:1rem}
+.sec-title{font-size:11px;color:#6e7681;text-transform:uppercase;letter-spacing:0.1em;margin-bottom:1.2rem;display:flex;align-items:center;gap:8px}
+.sec-title::after{content:'';flex:1;height:1px;background:#21262d}
+
+.skill-row{margin-bottom:14px}
+.skill-top{display:flex;justify-content:space-between;margin-bottom:5px}
+.skill-name{font-size:12px;color:#c9d1d9}
+.skill-pct{font-size:12px;color:#3fb950;font-family:'Courier New',monospace}
+.bar-bg{height:6px;background:#21262d;border-radius:3px;overflow:hidden}
+.bar-fill{height:100%;border-radius:3px;width:0%;transition:width 1.4s cubic-bezier(.4,0,.2,1)}
+.bar-green{background:#3fb950}
+.bar-blue{background:#58a6ff}
+.bar-purple{background:#bc8cff}
+.bar-orange{background:#f0883e}
+
+.activity-grid{display:grid;grid-template-columns:repeat(52,1fr);gap:2px;margin-bottom:8px}
+.act-cell{aspect-ratio:1;border-radius:2px;background:#161b22}
+.act-0{background:#161b22}
+.act-1{background:#0e4429}
+.act-2{background:#006d32}
+.act-3{background:#26a641}
+.act-4{background:#39d353}
+
+.timeline{position:relative;padding-left:1.5rem}
+.timeline::before{content:'';position:absolute;left:5px;top:0;bottom:0;width:1px;background:#21262d}
+.tl-item{position:relative;margin-bottom:1.2rem}
+.tl-dot{position:absolute;left:-1.5rem;top:4px;width:10px;height:10px;border-radius:50%;border:2px solid #3fb950;background:#0d1117}
+.tl-item:nth-child(2) .tl-dot{border-color:#58a6ff}
+.tl-item:nth-child(3) .tl-dot{border-color:#bc8cff}
+.tl-item:nth-child(4) .tl-dot{border-color:#f0883e}
+.tl-date{font-size:11px;color:#6e7681;margin-bottom:3px;font-family:'Courier New',monospace}
+.tl-title{font-size:13px;color:#e6edf3;font-weight:500}
+.tl-desc{font-size:12px;color:#6e7681;margin-top:3px;line-height:1.5}
+
+.badge{display:inline-block;font-size:11px;padding:3px 10px;border-radius:20px;margin:3px;font-family:'Courier New',monospace}
+.b-green{background:#0e4429;color:#3fb950;border:1px solid #26a641}
+.b-blue{background:#051d4d;color:#58a6ff;border:1px solid #1a56db}
+.b-purple{background:#2d1b69;color:#bc8cff;border:1px solid #7c3aed}
+.b-red{background:#4d0000;color:#ff7b72;border:1px solid #b91c1c}
+.b-orange{background:#4d2400;color:#f0883e;border:1px solid #c2410c}
+
+.term-block{background:#0d1117;border:1px solid #30363d;border-radius:8px;padding:1rem;font-size:12px;color:#3fb950;line-height:1.8;font-family:'Courier New',monospace}
+.term-block .dim{color:#484f58}
+.term-block .hi{color:#e6edf3}
+.term-block .acc{color:#58a6ff}
+
+.radar-wrap{display:flex;justify-content:center;padding:1rem 0}
+
+.counter{font-size:24px;font-weight:700;font-family:'Courier New',monospace}
+
+@media(max-width:600px){
+.grid4{grid-template-columns:repeat(2,1fr)}
+.grid2{grid-template-columns:1fr}
+}
+</style>
+
+<div class="page">
+
+<div class="hero">
+  <div class="scan-line" id="scanLine"></div>
+  <div class="hero-top">
+    <div class="avatar">0x</div>
+    <div class="hero-text">
+      <div class="handle">0xmfbk</div>
+      <div class="role"><span class="status-dot"></span>Web Application Security Researcher</div>
+      <div class="tagline">I don't look for vulnerabilities — I look for broken assumptions.</div>
+    </div>
+  </div>
+  <div class="typing" id="typingEl"><span class="cursor"></span></div>
+  <div style="display:flex;gap:8px;flex-wrap:wrap">
+    <span class="badge b-green">Logic Auditing</span>
+    <span class="badge b-blue">AuthN/AuthZ Bypass</span>
+    <span class="badge b-purple">Attack Chaining</span>
+    <span class="badge b-orange">Architecture Review</span>
+    <span class="badge b-red">Critical Findings</span>
+  </div>
+</div>
+
+<div class="grid4">
+  <div class="stat-card"><div class="num green counter" data-target="47">0</div><div class="lbl">CVEs Reported</div></div>
+  <div class="stat-card"><div class="num blue counter" data-target="120">0</div><div class="lbl">Targets Assessed</div></div>
+  <div class="stat-card"><div class="num orange counter" data-target="312">0</div><div class="lbl">Findings Documented</div></div>
+  <div class="stat-card"><div class="num red counter" data-target="19">0</div><div class="lbl">Critical Chains</div></div>
+</div>
+
+<div class="grid2">
+  <div class="section">
+    <div class="sec-title">Research depth</div>
+    <div class="skill-row">
+      <div class="skill-top"><span class="skill-name">Business Logic Flaws</span><span class="skill-pct">96%</span></div>
+      <div class="bar-bg"><div class="bar-fill bar-green" data-w="96"></div></div>
+    </div>
+    <div class="skill-row">
+      <div class="skill-top"><span class="skill-name">Authorization Bypass</span><span class="skill-pct">92%</span></div>
+      <div class="bar-bg"><div class="bar-fill bar-blue" data-w="92"></div></div>
+    </div>
+    <div class="skill-row">
+      <div class="skill-top"><span class="skill-name">Authentication Flows</span><span class="skill-pct">88%</span></div>
+      <div class="bar-bg"><div class="bar-fill bar-purple" data-w="88"></div></div>
+    </div>
+    <div class="skill-row">
+      <div class="skill-top"><span class="skill-name">Attack Chain Building</span><span class="skill-pct">85%</span></div>
+      <div class="bar-bg"><div class="bar-fill bar-orange" data-w="85"></div></div>
+    </div>
+    <div class="skill-row">
+      <div class="skill-top"><span class="skill-name">Architecture Modeling</span><span class="skill-pct">80%</span></div>
+      <div class="bar-bg"><div class="bar-fill bar-green" data-w="80"></div></div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="sec-title">Methodology stack</div>
+    <div class="term-block">
+      <div><span class="dim">$</span> <span class="hi">recon</span> <span class="dim">--mode</span> <span class="acc">deep</span></div>
+      <div><span class="dim">  ↳ mapping trust boundaries...</span></div>
+      <div style="margin-top:8px"><span class="dim">$</span> <span class="hi">analyze</span> <span class="dim">--target</span> <span class="acc">auth_flow</span></div>
+      <div><span class="dim">  ↳ tracing state transitions...</span></div>
+      <div style="margin-top:8px"><span class="dim">$</span> <span class="hi">exploit</span> <span class="dim">--vector</span> <span class="acc">logic_gap</span></div>
+      <div><span class="dim">  ↳ building attack chain...</span></div>
+      <div style="margin-top:8px"><span class="dim">$</span> <span class="hi">report</span> <span class="dim">--format</span> <span class="acc">root_cause</span></div>
+      <div><span class="dim">  ↳ </span><span style="color:#3fb950">chain documented. critical.</span></div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="sec-title">Contribution activity — last 12 months</div>
+  <div class="activity-grid" id="actGrid"></div>
+  <div style="display:flex;align-items:center;gap:6px;justify-content:flex-end">
+    <span style="font-size:11px;color:#6e7681">less</span>
+    <div style="width:10px;height:10px;border-radius:2px;background:#161b22;border:1px solid #30363d"></div>
+    <div style="width:10px;height:10px;border-radius:2px;background:#0e4429"></div>
+    <div style="width:10px;height:10px;border-radius:2px;background:#006d32"></div>
+    <div style="width:10px;height:10px;border-radius:2px;background:#26a641"></div>
+    <div style="width:10px;height:10px;border-radius:2px;background:#39d353"></div>
+    <span style="font-size:11px;color:#6e7681">more</span>
+  </div>
+</div>
+
+<div class="section">
+  <div class="sec-title">Notable findings timeline</div>
+  <div class="timeline">
+    <div class="tl-item">
+      <div class="tl-dot"></div>
+      <div class="tl-date">2024 — Q4</div>
+      <div class="tl-title">Multi-step privilege escalation via IDOR chain</div>
+      <div class="tl-desc">Chained three low-severity issues into full account takeover. Root cause: authorization checks applied to endpoints, not data objects.</div>
+    </div>
+    <div class="tl-item">
+      <div class="tl-dot"></div>
+      <div class="tl-date">2024 — Q2</div>
+      <div class="tl-title">OAuth flow state confusion leading to token hijack</div>
+      <div class="tl-desc">Exploited redirect_uri validation gap combined with state parameter reuse across sessions.</div>
+    </div>
+    <div class="tl-item">
+      <div class="tl-dot"></div>
+      <div class="tl-date">2023 — Q4</div>
+      <div class="tl-title">Business logic bypass in payment processing</div>
+      <div class="tl-desc">Negative value injection passed all server-side checks. Design assumed frontend validation was sufficient.</div>
+    </div>
+    <div class="tl-item">
+      <div class="tl-dot"></div>
+      <div class="tl-date">2023 — Q1</div>
+      <div class="tl-title">Race condition in concurrent session management</div>
+      <div class="tl-desc">Two simultaneous requests during role change window granted elevated permissions to both sessions permanently.</div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="sec-title">Focus areas</div>
+  <div style="display:flex;flex-wrap:wrap">
+    <span class="badge b-green">Access Control</span>
+    <span class="badge b-green">Broken Auth</span>
+    <span class="badge b-blue">Session Management</span>
+    <span class="badge b-blue">JWT Attacks</span>
+    <span class="badge b-blue">OAuth Abuse</span>
+    <span class="badge b-purple">IDOR</span>
+    <span class="badge b-purple">Mass Assignment</span>
+    <span class="badge b-orange">API Security</span>
+    <span class="badge b-orange">GraphQL</span>
+    <span class="badge b-red">Race Conditions</span>
+    <span class="badge b-red">Logic Chains</span>
+  </div>
+</div>
+
+</div>
+
+<script>
+window.addEventListener('load', function(){
+
+  setTimeout(()=>{
+    document.getElementById('scanLine').style.width='100%';
+  },200);
+
+  const phrases=[
+    'analyzing trust boundary model...',
+    'mapping authorization flow...',
+    'identifying logic assumptions...',
+    'building attack chain...',
+    'vulnerability confirmed. documenting root cause.'
+  ];
+  let pi=0,ci=0,el=document.getElementById('typingEl');
+  function typeNext(){
+    if(pi>=phrases.length){pi=0}
+    let txt=phrases[pi];
+    if(ci<txt.length){
+      el.innerHTML=txt.substring(0,ci+1)+'<span class="cursor"></span>';
+      ci++;
+      setTimeout(typeNext,45);
+    } else {
+      setTimeout(()=>{
+        ci=0;pi++;
+        el.innerHTML='<span class="cursor"></span>';
+        setTimeout(typeNext,400);
+      },1800);
+    }
+  }
+  setTimeout(typeNext,1000);
+
+  const counters=document.querySelectorAll('.counter');
+  counters.forEach(c=>{
+    const target=parseInt(c.dataset.target);
+    let cur=0;
+    const step=Math.max(1,Math.floor(target/40));
+    const t=setInterval(()=>{
+      cur=Math.min(cur+step,target);
+      c.textContent=cur;
+      if(cur>=target)clearInterval(t);
+    },30);
+  });
+
+  setTimeout(()=>{
+    document.querySelectorAll('.bar-fill').forEach(b=>{
+      b.style.width=b.dataset.w+'%';
+    });
+  },400);
+
+  const grid=document.getElementById('actGrid');
+  const levels=[0,1,1,0,2,2,1,0,3,2,1,0,0,3,4,2,1,0,2,3,1,0,0,1,2,3,0,1,4,3,2,1,0,2,1,0,3,2,1,0,1,2,3,4,2,1,0,1,2,3,1,2];
+  for(let i=0;i<52*5;i++){
+    const d=document.createElement('div');
+    const lv=levels[Math.floor(Math.random()*levels.length)];
+    d.className='act-cell act-'+lv;
+    grid.appendChild(d);
+  }
+
+});
+</script>
