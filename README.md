@@ -1,41 +1,52 @@
+<!--
+  0xmfbk — web application security researcher
+-->
+
 <div align="center">
 
-<h2>0xmfbk | Web Application Security Researcher</h2>
-
-<p><em>I study how applications break — not just where, but why.</em></p>
+```
+# ------------------------------------------------------------------
+# 0xmfbk — web application security researcher
+# ------------------------------------------------------------------
+```
 
 </div>
 
 ---
 
-My work sits at the intersection of application logic and security architecture. I approach assessments the way developers build systems: by understanding the full data flow before looking for where it fails.
-
-Most vulnerabilities aren't in the code - they're in the assumptions behind it.
+I break web applications for a living — not by running scanners, but by reading how they think.
 
 ---
 
-**What I focus on**
+**Research focus**
 
-Web application security at depth. That means tracing trust boundaries across authentication flows, authorization models, and business logic before a single payload is crafted. The interesting findings rarely come from automation; they come from reading how the application thinks.
-
-I'm particularly drawn to the class of issues that emerge from the gap between what a developer intended and what a system actually enforces — access control flaws, state confusion, and logic bypasses that scanners can't see because the logic itself is the vulnerability.
+My work centers on the logic layer — the part of an application that no automated tool can fully understand. Business logic flaws, authorization model failures, and trust boundary abuse are the class of issues I'm most interested in. They're architectural by nature, invisible to scanners, and almost always critical in impact.
 
 ---
 
-**How I work**
+**Methodology**
 
-Every assessment starts with understanding the application as a user, then as a developer, then as an attacker. That sequence matters. Jumping straight to exploitation misses the architectural context that turns a low-severity finding into a critical one.
+Every assessment follows the same sequence:
 
-I document findings the way I'd want to receive them - root cause first, impact second, remediation that addresses the design, not just the symptom.
+```
+1. understand the application as a user
+2. understand it as the developer who built it
+3. then — and only then — think like an attacker
+```
+
+Skipping step two is how researchers miss the interesting bugs.  
+The vulnerability is almost never where the spec says it should be.
 
 ---
 
-**Background**
+**On reporting**
 
-I've spent significant time studying how real-world applications fail under adversarial conditions, with a focus on scenarios that combine multiple weaknesses into exploitable chains. My interest is in the reasoning process behind vulnerability discovery, not the tooling.
+A finding without context is just noise. I document root cause first, impact second, and remediation that addresses the design — not just the symptom. The goal is to leave the team with understanding, not a list of things to patch.
 
 ---
 
-<div align="center">
-  <sub>Open to collaboration on research, responsible disclosure, and security architecture review.</sub>
-</div>
+**Reach out**
+
+Open to security research collaboration, responsible disclosure, and architecture review engagements.
+
+<sub>— eof</sub>
