@@ -13,7 +13,8 @@ I chase **flaws in human reasoning** - the ones scanners will never find.
 
 ### 🧠 What defines my work
 
-| | |
+
+|---|---|
 | 🎯 | **Business logic abuse** - breaking workflows, quotas, and trust chains |
 | 🔐 | **Authentication deep dives** - sessions, tokens, OAuth logic gaps |
 | 🕳️ | **Hidden stateful endpoints** - where developers forget to validate |
