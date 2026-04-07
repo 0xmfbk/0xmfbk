@@ -1,141 +1,41 @@
 <div align="center">
 
-```
-  ┌─────────────────────────────────────────────────────────────────────┐
-  │                                                                     │
-  │   $  curl -X POST https://target.com -d "id=1' OR '1'='1"           │
-  │   $  sqlmap -u "https://target.com?id=1" --dbs --batch              │
-  │   $  nuclei -u https://target.com -t cves/                          │
-  │   $  ffuf -u https://target.com/FUZZ -w wordlist.txt                │
-  │   $  burpsuite --proxy-port=8080 --intercept                        │
-  │                                                                     │
-  └─────────────────────────────────────────────────────────────────────┘
-```
+<h2>0xmfbk | Web Application Security Researcher</h2>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=0xmfbk&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/0xmfbk)
+<p><em>I study how applications break — not just where, but why.</em></p>
 
 </div>
 
 ---
 
-<img align="right" alt="Hacking" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJxY2t6N2RqNWF6OWZ1dWRxbWNxNnBzOWV5cWRqNmF1cWJlbDVqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif">
+My work sits at the intersection of application logic and security architecture. I approach assessments the way developers build systems: by understanding the full data flow before looking for where it fails.
 
-## `> whoami`
-
-```python
-#!/usr/bin/env python3
-
-class SecurityResearcher:
-    def __init__(self):
-        self.name = "0xmfbk"
-        self.role = "Security Researcher & Penetration Tester"
-        self.location = "127.0.0.1"
-        self.status = "Exploiting vulnerabilities ethically"
-        
-    @property
-    def specialization(self):
-        return [
-            "Web Application Penetration Testing",
-            "Vulnerability Research & Analysis",
-            "Red Team Operations",
-            "Exploit Development"
-        ]
-    
-    @property
-    def philosophy(self):
-        return "There is no patch for human stupidity"
-    
-    def current_mission(self):
-        return "Breaking things to make them stronger"
-
-me = SecurityResearcher()
-```
-
-<br clear="right"/>
+Most vulnerabilities aren't in the code - they're in the assumptions behind it.
 
 ---
 
-## `> cat skills.txt`
+**What I focus on**
 
-<div align="center">
+Web application security at depth. That means tracing trust boundaries across authentication flows, authorization models, and business logic before a single payload is crafted. The interesting findings rarely come from automation; they come from reading how the application thinks.
 
-### ⚔️ Offensive Security Arsenal
-
-| Category | Technologies |
-|:--------:|:------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00ff00) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=00ff00) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=00ff00) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=00ff00) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00ff00) |
-| **Low Level** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=00ff00) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00ff00) ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logoColor=00ff00) |
-| **Scripting** | ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=00ff00) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=00ff00) |
-| **Web** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=00ff00) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=00ff00) |
-
-### 🖥️ Operating Systems
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=00ff00)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E3A3?style=for-the-badge&logo=linux&logoColor=black)
-![BlackArch](https://img.shields.io/badge/BlackArch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=00ff00)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=00ff00)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=00ff00)
-
-</div>
+I'm particularly drawn to the class of issues that emerge from the gap between what a developer intended and what a system actually enforces — access control flaws, state confusion, and logic bypasses that scanners can't see because the logic itself is the vulnerability.
 
 ---
 
-## `> ./stats.sh`
+**How I work**
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xmfbk&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&ring_color=00ff00"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmfbk&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00"/>
+Every assessment starts with understanding the application as a user, then as a developer, then as an attacker. That sequence matters. Jumping straight to exploitation misses the architectural context that turns a low-severity finding into a critical one.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xmfbk&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff0000&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=00ff00&sideNums=00ff00&dates=00ff00"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xmfbk&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00ff00&line=00ff00&point=ff0000&area=true&area_color=00ff00"/>
-
-</div>
+I document findings the way I'd want to receive them - root cause first, impact second, remediation that addresses the design, not just the symptom.
 
 ---
 
-## `> cat /etc/focus`
+**Background**
 
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   🔓 Web Application Security    │   🎯 Red Team Operations     │
-│   🐛 Bug Bounty Hunting          │   🔬 Malware Analysis        │
-│   🛡️ Network Penetration         │   ⚡ Zero-Day Research       │
-│   🔐 Cryptography                │   🕸️ OSINT                   │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## `> netstat -an | grep ESTABLISHED`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-0xmfbk-181717?style=for-the-badge&logo=github&logoColor=00ff00)](https://github.com/0xmfbk)
-
-</div>
+I've spent significant time studying how real-world applications fail under adversarial conditions, with a focus on scenarios that combine multiple weaknesses into exploitable chains. My interest is in the reasoning process behind vulnerability discovery, not the tooling.
 
 ---
 
 <div align="center">
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                                  ┃
-┃   "There is no patch for human stupidity"                        ┃
-┃                                                                  ┃
-┃                                        - 0xmfbk                  ┃
-┃                                                                  ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer&animation=twinkling"/>
-
+  <sub>Open to collaboration on research, responsible disclosure, and security architecture review.</sub>
 </div>
