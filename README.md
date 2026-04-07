@@ -1,39 +1,44 @@
-# 0xmfbk
-
-**Web Application Penetration Researcher**
-
-I don't test for vulnerabilities. I test for **assumptions**.
-
-Every secure system is built on trust. My job is to find where that trust was misplaced - not by running scanners, but by understanding how the developer thinks.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=600&color=00CC88&center=true&vCenter=true&width=500&lines=0xmfbk;Web+Application+Penetration+Researcher;I+break+logic%2C+not+just+code;Understanding+developers+before+exploiting+them" alt="Typing animation" />
+</p>
 
 ---
 
-## What I actually do
+### 👋 I'm 0xmfbk
 
-- **Business logic abuse** - breaking workflows, not just inputs
-- **Authentication & session logic** - where "secure by design" often fails
-- **Hidden APIs & stateful endpoints** - the places automation never reaches
-
-A vulnerability is not a bug. It's a **gap in reasoning**.
+I don't chase CVEs. I don't brag about tools.  
+I chase **flaws in human reasoning** - the ones scanners will never find.
 
 ---
 
-## How I work
+### 🧠 What defines my work
 
-- No checklist mentality
-- No "tool-first" approach
-- Manual, deep, contextual analysis
-
-I don't produce long meaningless reports. I produce **exploit chains** and **fix strategies** that engineers actually respect.
-
----
-
-## Reach me
-
-If your project has an interesting attack surface, I'm interested.
-
-`0xmfbk` - the name is enough.
+| | |
+|---|---|
+| 🎯 | **Business logic abuse** - breaking workflows, quotas, and trust chains |
+| 🔐 | **Authentication deep dives** - sessions, tokens, OAuth logic gaps |
+| 🕳️ | **Hidden stateful endpoints** - where developers forget to validate |
 
 ---
 
-*"Security is not a feature. It's a mindset."*
+### ⚡️ Quick truth
+
+> *A real vulnerability isn't a syntax error.*  
+> *It's a mistake in how someone thought the world works.*
+
+---
+
+### 📡 Connect
+
+If your project has an interesting attack surface -  
+send me a **technical question first**. I'll know you're serious.
+
+<p align="center">
+  <code>0xmfbk</code> - the name is enough.
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=0xmfbk&label=visitors&color=1&icon=0&pretty=true" />
+</p>
