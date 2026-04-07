@@ -1,4 +1,4 @@
-<!-- Animated gradient banner (pure CSS + HTML, no external tools mentioned) -->
+md<!-- Animated gradient banner (pure CSS + HTML, no external tools mentioned) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&color=00FFAA&center=true&vCenter=true&width=600&lines=Web+Application+Penetration+Researcher;Breaking+Logic%2C+Not+Just+Code;Understanding+the+Developer's+Mind;Redefining+Attack+Surfaces" alt="Typing Animation" />
 </p>
