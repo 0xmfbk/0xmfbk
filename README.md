@@ -14,7 +14,6 @@ I chase **flaws in human reasoning** - the ones scanners will never find.
 ### 🧠 What defines my work
 
 | | |
-|---|---|
 | 🎯 | **Business logic abuse** - breaking workflows, quotas, and trust chains |
 | 🔐 | **Authentication deep dives** - sessions, tokens, OAuth logic gaps |
 | 🕳️ | **Hidden stateful endpoints** - where developers forget to validate |
@@ -35,10 +34,4 @@ send me a **technical question first**. I'll know you're serious.
 
 <p align="center">
   <code>0xmfbk</code> - the name is enough.
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=0xmfbk&label=visitors&color=1&icon=0&pretty=true" />
 </p>
