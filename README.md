@@ -16,8 +16,8 @@ My work is built on an absolute ground-floor reality: troubleshooting critical h
 
 | Domain | Execution |
 |---|---|
-| Offensive Operations | Web application penetration testing, mapping attack surfaces, and identifying OWASP Top 10 flaws[cite: 1]. |
-| Defensive Operations | Infrastructure and server hardening, operating system maintenance, and log analysis using Splunk[cite: 1]. |
+| Offensive Operations | Web application penetration testing, mapping attack surfaces, and identifying OWASP Top 10 flaws. |
+| Defensive Operations | Infrastructure and server hardening, operating system maintenance, and log analysis using Splunk. |
 
 ---
 
@@ -30,10 +30,10 @@ My work is built on an absolute ground-floor reality: troubleshooting critical h
 
 ### Connect
 
-Let us connect to discuss web penetration testing, server hardening, or practical technical operations[cite: 1].
+Let us connect to discuss web penetration testing, server hardening, or practical technical operations.
 
-* **Email:** mustafabanikhalaf772@gmail.com[cite: 1]
-* **Website:** zeroxmfbk-sec.onrender.com[cite: 1]
+* **Email:** mustafabanikhalaf772@gmail.com
+* **Website:** zeroxmfbk-sec.onrender.com
 
 <p align="center">
   <code>0xmfbk</code>
