@@ -8,7 +8,7 @@
 
 Some look at logs; others look for bugs. I prefer to stand right in the middle, mostly because watching a system fight itself from both sides is where true security happens. 
 
-My work is built on an absolute ground-floor reality: troubleshooting critical hardware flaws, managing multi-platform (Windows and Linux) server environments, and finding where infrastructure actually chokes under pressure. I combine that structural knowledge with a calculated offensive mindset to hunt web application vulnerabilities before actual malicious actors do.
+My work is built on an absolute ground floor reality: troubleshooting critical hardware flaws, managing multi platform (Windows and Linux) server environments, and finding where infrastructure actually chokes under pressure. I combine that structural knowledge with a calculated offensive mindset to hunt web application vulnerabilities before actual malicious actors do.
 
 ---
 
