@@ -26,15 +26,6 @@ My work is built on an absolute ground floor reality: troubleshooting critical h
 > *A real vulnerability is rarely just a syntax error.*  
 > *It is usually a blind spot in how the underlying infrastructure and the application architecture talk to each other.*
 
----
-
-### Connect
-
-Let us connect to discuss web penetration testing, server hardening, or practical technical operations.
-
-* **Email:** mustafabanikhalaf772@gmail.com
-* **Portfolio:** [mfbk.onrender.com](https://mfbk.onrender.com/)
-
 <p align="center">
   <code>0xmfbk</code>
 </p>
