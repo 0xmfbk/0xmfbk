@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=600&color=00CC88&center=true&vCenter=true&width=500&lines=0xmfbk;Systems+breathe.+Systems+choke.;Web+App+Penetration+Tester;Operating+in+the+blind+spots" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=600&color=00CC88&center=true&vCenter=true&width=500&lines=0xmfbk;Systems+breathe.+Systems+choke.;Web+App+Penetration+Tester;Operating+in+the+blind+spots;DevSecOps;AI+Agentic+Automation" alt="Typing animation" />
 </p>
 
 ---
