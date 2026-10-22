@@ -13,8 +13,6 @@
 <text x="40" y="202" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#FF8A5B">$ background</text><text x="250" y="202" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#F6F0FF">SOC workflows, Splunk, Windows and Linux administration</text></g>
 <g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.03;.92;1" dur="16s" begin="4.6s" repeatCount="indefinite"/>
 <text x="40" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#FF8A5B">$ certified</text><text x="250" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#F6F0FF">ISC2 CC, ISO/IEC 27001, 27701, 42001 Lead Auditor</text></g>
-<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.03;.92;1" dur="16s" begin="5.4s" repeatCount="indefinite"/>
-<text x="40" y="292" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#FF8A5B">$ learning</text><text x="250" y="292" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#F6F0FF">Rust and eBPF runtime security</text></g>
 <g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.03;.92;1" dur="16s" begin="6.2s" repeatCount="indefinite"/>
 <text x="40" y="322" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#FF8A5B">$ open_to</text><text x="250" y="322" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#F6F0FF">conversations on security, red teaming and DevSecOps</text></g>
 
