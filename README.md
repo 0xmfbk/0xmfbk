@@ -25,7 +25,7 @@
 <p align="center"><img src="./assets/h-journey.svg" alt="How I got here" width="100%" /></p>
 <p align="center"><img src="./assets/journey.svg" alt="Timeline from 2021 to 2026" width="100%" /></p>
 
-
+<p align="center"><img src="./assets/builds.svg" alt="Recent builds: Automata Builder, NetRiskScanner, NeuroVisionAI, SecureSK-20" width="100%" /></p>
 
 <p align="center"><img src="./assets/h-toolkit.svg" alt="Toolkit" width="100%" /></p>
 
