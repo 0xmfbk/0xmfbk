@@ -6,7 +6,7 @@
   <a href="https://ko-fi.com/0xmfbk"><img src="./assets/support-kofi.svg" alt="Support on Ko-fi" height="64" /></a>
 </p>
 
-<p align="center"><img src="./assets/hero.svg" alt="Mustafa Faek Banikhalaf, cyber security instructor and offensive security engineer" width="100%" /></p>
+<p align="center"><img src="./assets/hero.svg" alt="Mustafa Banikhalaf, Cyber Security Instructor and Offensive Security Engineer" width="100%" /></p>
 <p align="center"><img src="./assets/ticker.svg" alt="Web application pentesting, OWASP Top 10, SOC workflows, DevSecOps, ISO 27001, mentoring" width="100%" /></p>
 
 <p align="center">
