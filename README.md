@@ -90,9 +90,3 @@ I build something new most weeks, in different corners of security and beyond. T
   <a href="https://linkedin.com/in/mustafabanikhalaf"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://reddit.com/user/0xmfbk"><img src="https://img.shields.io/badge/Reddit-0xmfbk-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
 </p>
-
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
-<p align="center">
-  <a href="https://paypal.me/MUSTAFABANIKHALAF"><img src="./assets/support-paypal.svg" alt="Support on PayPal" height="56" /></a>&nbsp;&nbsp;
-  <a href="https://ko-fi.com/0xmfbk"><img src="./assets/support-kofi.svg" alt="Support on Ko-fi" height="56" /></a>
-</p>
