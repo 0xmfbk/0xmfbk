@@ -16,4 +16,4 @@
 <g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.03;.92;1" dur="16s" begin="4.6s" repeatCount="indefinite"/>
 <text x="40" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#FF8A5B">$ open_to</text><text x="250" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#F6F0FF">conversations on security, red teaming and DevSecOps</text></g>
 <text x="40" y="292" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#FF8A5B">$</text>
-<rect x="58" y="277" width="10" height="20" fill="#FF8A5B"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1s" repeatCount="indefinite"/></rect></svg>
+<rect x="58" y="277" width="10" height="30" fill="#FF8A5B"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1s" repeatCount="indefinite"/></rect></svg>
