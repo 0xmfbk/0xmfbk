@@ -22,9 +22,6 @@
 <p align="center"><img src="./assets/h-disciplines.svg" alt="What I work on" width="100%" /></p>
 <p align="center"><img src="./assets/disciplines.svg" alt="Offensive security, defensive and SOC, DevSecOps and automation, governance and assurance, infrastructure, teaching and community" width="100%" /></p>
 
-<p align="center"><img src="./assets/h-signals.svg" alt="In numbers" width="100%" /></p>
-<p align="center"><img src="./assets/signals.svg" alt="120 hours of SOC training, 50+ students mentored, 3 ISO lead auditor certificates, 5 community roles" width="100%" /></p>
-
 <p align="center"><img src="./assets/h-journey.svg" alt="How I got here" width="100%" /></p>
 <p align="center"><img src="./assets/journey.svg" alt="Timeline from 2021 to 2026" width="100%" /></p>
 
