@@ -79,7 +79,7 @@ I build something new most weeks, in different corners of security and beyond. T
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmfbk&layout=compact&hide_border=true&bg_color=140E2B&title_color=FFB38A&text_color=D9CFF5&langs_count=8" alt="Top languages" />
 </p>
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xmfbk&bg_color=140E2B&color=D9CFF5&line=FF8A5B&point=BDEBFF&area=true&area_color=FF8A5B&hide_border=true" alt="Contribution graph" />
+  <img width="96%" src="https://ghchart.rshah.org/FF8A5B/0xmfbk" alt="GitHub contribution calendar for 0xmfbk" />
 </p>
 
 <p align="center"><img src="./assets/h-contact.svg" alt="Reach me" width="100%" /></p>
