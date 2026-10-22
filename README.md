@@ -20,56 +20,43 @@
 <img src="https://img.shields.io/badge/MODE-OFFENSIVE%20%2B%20DEFENSIVE-00CC88?style=for-the-badge&labelColor=0d1117" alt="mode" />
 <img src="https://img.shields.io/badge/FOCUS-BLIND%20SPOTS-00CC88?style=for-the-badge&labelColor=0d1117" alt="focus" />
 
+<br/><br/>
+
+<!-- ══════════════════════════  SOCIALS  ═════════════════════════════ -->
+
+<a href="https://linkedin.com/in/mustafabanikhalaf"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00CC88" alt="LinkedIn"></a>
+<a href="https://reddit.com/user/0xmfbk"><img src="https://img.shields.io/badge/Reddit-0d1117?style=for-the-badge&logo=reddit&logoColor=00CC88" alt="Reddit"></a>
+<a href="mailto:mustafabanikhalaf772@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00CC88" alt="Email"></a>
+
 </div>
 
 <br/>
 
-<!-- ══════════════════════════  CYBERPUNK HUD UI  ═════════════════════════════ -->
+<!-- ══════════════════════════  CYBERPUNK HUD ABOUT ME  ═════════════════════════════ -->
 
 <div align="center">
   <table style="width: 100%; max-width: 850px; border-collapse: collapse; font-family: 'Courier New', monospace; background: linear-gradient(135deg, #0d1117 0%, #0b1512 100%); border: 1px solid #00CC88; border-radius: 10px; box-shadow: 0 0 20px rgba(0, 204, 136, 0.2), inset 0 0 15px rgba(0, 204, 136, 0.05);">
     <tr style="background-color: rgba(0, 204, 136, 0.1); border-bottom: 2px solid #00CC88;">
       <td style="padding: 12px 20px; text-align: left; color: #00CC88; font-size: 16px; font-weight: bold; letter-spacing: 2px; text-shadow: 0 0 5px rgba(0, 204, 136, 0.5);">
-        ⟐ SYSTEM // CORE_INTERFACE_v4.0 ⟐
+        ⟐ SYSTEM // ABOUT_ME.log ⟐
       </td>
       <td style="padding: 12px 20px; text-align: right; color: #8b949e; font-size: 12px;">
-        <span style="color: #00CC88;">● ONLINE</span> | SEC_LVL: <span style="color: #ff5f56;">MAX</span>
+        <span style="color: #00CC88;">● ONLINE</span>
       </td>
     </tr>
     <tr>
-      <td style="width: 50%; padding: 25px; text-align: left; border-right: 1px dashed #30363d; vertical-align: top;">
-        <span style="color: #00CC88; font-size: 12px; letter-spacing: 1px;">[ INITIATING SEQUENCE ]</span><br/><br/>
-        <span style="color: #00CC88; font-weight: bold; text-shadow: 0 0 5px rgba(0, 204, 136, 0.5);">> OPERATOR:</span> 
-        <span style="color: #ffffff; font-weight: bold;">0xmfbk</span><br/><br/>
-        <span style="color: #00CC88; font-weight: bold;">> ROLE:</span> <br/>
-        <span style="color: #58a6ff;">» Cyber Security Instructor</span><br/>
-        <span style="color: #8b949e; font-size: 13px;">@ CyberA4U · Jr. Offensive Security</span><br/><br/>
-        <span style="color: #00CC88; font-weight: bold;">> PAYLOAD:</span><br/>
-        <span style="color: #d2a8ff;">» DevSecOps</span><br/>
-        <span style="color: #d2a8ff;">» AI Agentic Automation</span><br/><br/>
-        <span style="color: #00CC88; font-size: 12px; letter-spacing: 1px;">[ INFRASTRUCTURE_MAP ]</span><br/>
-        <span style="color: #00CC88;">[████████████████████]</span> <span style="color: #c9d1d9;">100%</span><br/>
-        <span style="color: #00CC88; font-size: 12px; letter-spacing: 1px;">[ ATTACK_SURFACE_ENUM ]</span><br/>
-        <span style="color: #00CC88;">[████████████████████]</span> <span style="color: #c9d1d9;">100%</span>
-      </td>
-      <td style="width: 50%; padding: 25px; text-align: left; vertical-align: top; background-color: rgba(0,0,0,0.2);">
-        <span style="color: #ffbd2e; font-size: 12px; letter-spacing: 1px;">[ ACCESSING PHILOSOPHY.LOG ]</span><br/><br/>
-        <div style="border-left: 2px solid #d2a8ff; padding-left: 10px; margin-bottom: 15px;">
-          <span style="color: #d2a8ff; font-style: italic;">"Some look at logs. Others look for bugs."</span><br/>
-          <span style="color: #d2a8ff; font-style: italic;">"I stand in the middle — where systems fight themselves."</span>
-        </div>
-        <span style="color: #ffbd2e; font-size: 12px; letter-spacing: 1px;">[ SCANNING FOR BLIND SPOTS ]</span><br/><br/>
-        <span style="color: #3fb950;">[✓]</span> <span style="color: #c9d1d9;">eBPF Container Escape Framework</span><br/>
-        <span style="color: #3fb950;">[✓]</span> <span style="color: #c9d1d9;">SecureSK-20 Hashing Module</span><br/>
-        <span style="color: #ff5f56;">[!]</span> <span style="color: #c9d1d9;">Proceeding with calculated intent...</span><br/><br/>
-        <span style="color: #00CC88; font-weight: bold;">> STATUS:</span> <span style="color: #ffffff; background-color: #00CC88; padding: 2px 6px; border-radius: 3px; font-size: 12px; font-weight: bold;">TARGET_LOCKED</span><br/><br/>
-        <span style="color: #8b949e; font-size: 11px;">──────────────────────</span><br/>
-        <span style="color: #00CC88;">█ █ █ █ █ ░ ░ ░ ░ ░</span> <span style="color: #8b949e; font-size: 11px;">SYS_LOAD</span>
+      <td colspan="2" style="padding: 25px; text-align: left; color: #c9d1d9; line-height: 1.8;">
+        <span style="color: #00CC88; font-weight: bold;">> CURRENT_OP:</span> Working on <b>eBPF Container Escape Framework</b> and <b>SecureSK-20</b> to bridge the gap between theory and reality.<br/><br/>
+        <span style="color: #00CC88; font-weight: bold;">> SEEKING_COLLAB:</span> Offensive Security tooling, DevSecOps pipelines, and AI Agentic Automation.<br/><br/>
+        <span style="color: #00CC88; font-weight: bold;">> REQUIRING_ASSIST:</span> Scaling AI agents for autonomous vulnerability discovery and advanced kernel-level exploitation.<br/><br/>
+        <span style="color: #00CC88; font-weight: bold;">> LEARNING_CURVE:</span> Rust for security tooling and deep-diving into eBPF runtime security.<br/><br/>
+        <span style="color: #00CC88; font-weight: bold;">> COMMS_CHANNEL:</span> Ask me about Web App Penetration Testing, Infrastructure Hardening, Splunk, or my work as a Cyber Security Instructor @ CyberA4U.<br/><br/>
+        <span style="color: #ffbd2e; font-weight: bold;">> FUN_FACT:</span> <i>"A real vulnerability is rarely just a syntax error. It’s usually a blind spot in how infrastructure and the application architecture talk to each other."</i>
       </td>
     </tr>
     <tr style="background-color: rgba(0, 204, 136, 0.05); border-top: 1px solid #30363d;">
       <td colspan="2" style="padding: 10px; text-align: center; color: #8b949e; font-size: 11px; letter-spacing: 1px;">
-        ⟐ ROOT_ACCESS_GRANTED · CONNECTION SECURED VIA AES-256 ⟐
+        ⟐ END_OF_FILE · SECURE_CONNECTION_ESTABLISHED ⟐
       </td>
     </tr>
   </table>
@@ -77,62 +64,17 @@
 
 <br/>
 
-<!-- ══════════════════════════  REALITY  ═════════════════════════════ -->
-
-## 🎯 The Reality of My Approach
-
-Some look at logs, others look for bugs. I prefer to stand right in the middle — mostly because watching a system fight itself from both sides is where true security happens.
-
-My work is built on an absolute ground-floor reality: troubleshooting critical hardware flaws, managing multi-platform (Windows & Linux) server environments, and finding where infrastructure actually chokes under pressure. I combine that structural knowledge with a calculated offensive mindset to hunt web application vulnerabilities before actual malicious actors do.
-
-I also build practical tools that bridge the gap between theory and reality — like the **eBPF Container Escape Framework** for runtime audit, and **SecureSK-20** for secure hashing and encryption.
-
-<br/>
-
-<!-- ═══════════════════════  FOCUS AREAS  ══════════════════════════ -->
-
-## 💻 Technical Focus Areas
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚔️ Offensive Operations
-
-- **Web Application Penetration Testing**
-- Mapping attack surfaces
-- Identifying OWASP Top 10 flaws
-- Calculated offensive mindset
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Defensive Operations
-
-- **Infrastructure & Server Hardening**
-- Operating system maintenance
-- Log analysis with Splunk
-- Building resilient systems
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ══════════════════════════  ARSENAL  ═══════════════════════════ -->
+<!-- ══════════════════════════  ARSENAL (TECH STACK)  ═══════════════════════════ -->
 
 ## 🧰 Arsenal
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,windows,bash,python,javascript,nodejs,docker,git,github,nginx,mysql,postgres,redis,cloudflare,kubernetes,vscode&theme=dark&perline=8" alt="Tech Stack" />
-
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,python,rust,c,cpp,go,powershell,docker,kubernetes,aws,cloudflare,git,github,nginx,mysql,postgres,redis,splunk&theme=dark&perline=10" alt="Tech Stack" />
 </div>
 
 <br/>
 
-<!-- ══════════════════════════  STATS  ═════════════════════════════ -->
+<!-- ══════════════════════════  STATS & TROPHIES  ═════════════════════════════ -->
 
 ## 📊 Signal in the Noise
 
@@ -153,8 +95,16 @@ I also build practical tools that bridge the gap between theory and reality — 
 
 <br/><br/>
 
+<!-- TROPHIES -->
 <a href="https://github.com/0xmfbk">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xmfbk&bg_color=0d1117&color=00CC88&line=00CC88&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=0xmfbk&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</a>
+
+<br/><br/>
+
+<!-- TOP CONTRIBUTED REPO -->
+<a href="https://github.com/0xmfbk">
+  <img src="https://github-contributor-stats.vercel.app/api?username=0xmfbk&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&title_color=00CC88&text_color=c9d1d9&bg_color=0d1117" alt="Top Contributed Repo" />
 </a>
 
 </div>
@@ -171,6 +121,27 @@ I also build practical tools that bridge the gap between theory and reality — 
 >
 > **_It is usually a blind spot in how the underlying infrastructure_**
 > **_and the application architecture talk to each other._**
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════  SUPPORT & DONATIONS  ════════════════════════════ -->
+
+## 💰 Support the Research
+
+<div align="center">
+
+  <a href="https://paypal.me/MUSTAFABANIKHALAF" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-0d1117?style=for-the-badge&logo=paypal&logoColor=00CC88" alt="PayPal" />
+  </a>
+  <a href="https://ko-fi.com/0xmfbk" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-0d1117?style=for-the-badge&logo=ko-fi&logoColor=00CC88" alt="Ko-fi" />
+  </a>
+
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=0xmfbk&label=PROFILE+VIEWS&color=00CC88&style=flat-square" alt="Profile Views" />
 
 </div>
 
