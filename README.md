@@ -24,32 +24,52 @@
 
 <br/>
 
-<!-- ══════════════════════════  CUSTOM TERMINAL UI  ═════════════════════════════ -->
+<!-- ══════════════════════════  CYBERPUNK HUD UI  ═════════════════════════════ -->
 
 <div align="center">
-  <table style="width: 100%; max-width: 850px; margin: 0 auto; border-collapse: collapse; font-family: 'JetBrains Mono', Consolas, monospace; background-color: #0d1117; border-radius: 8px; border: 1px solid #30363d; box-shadow: 0 0 25px rgba(0, 204, 136, 0.15);">
-    <tr>
-      <td style="padding: 10px 15px; background-color: #161b22; border-bottom: 1px solid #30363d; border-radius: 8px 8px 0 0; text-align: left;">
-        <span style="color: #ff5f56; font-size: 14px; margin-right: 6px;">●</span>
-        <span style="color: #ffbd2e; font-size: 14px; margin-right: 6px;">●</span>
-        <span style="color: #27c93f; font-size: 14px; margin-right: 15px;">●</span>
-        <span style="color: #8b949e; font-size: 12px;">0xmfbk@lab: ~</span>
+  <table style="width: 100%; max-width: 850px; border-collapse: collapse; font-family: 'Courier New', monospace; background: linear-gradient(135deg, #0d1117 0%, #0b1512 100%); border: 1px solid #00CC88; border-radius: 10px; box-shadow: 0 0 20px rgba(0, 204, 136, 0.2), inset 0 0 15px rgba(0, 204, 136, 0.05);">
+    <tr style="background-color: rgba(0, 204, 136, 0.1); border-bottom: 2px solid #00CC88;">
+      <td style="padding: 12px 20px; text-align: left; color: #00CC88; font-size: 16px; font-weight: bold; letter-spacing: 2px; text-shadow: 0 0 5px rgba(0, 204, 136, 0.5);">
+        ⟐ SYSTEM // CORE_INTERFACE_v4.0 ⟐
+      </td>
+      <td style="padding: 12px 20px; text-align: right; color: #8b949e; font-size: 12px;">
+        <span style="color: #00CC88;">● ONLINE</span> | SEC_LVL: <span style="color: #ff5f56;">MAX</span>
       </td>
     </tr>
     <tr>
-      <td style="padding: 20px 25px; color: #c9d1d9; font-size: 14px; line-height: 1.7; text-align: left;">
-        <span style="color: #00CC88; font-weight: bold;">0xmfbk@lab:~$</span> whoami<br/>
-        <span style="color: #58a6ff;">> Cyber Security Instructor @ CyberA4U · Junior Offensive Security Engineer</span><br/>
-        <span style="color: #8b949e;">> DevSecOps · AI Agentic Automation</span><br/><br/>
-        <span style="color: #00CC88; font-weight: bold;">0xmfbk@lab:~$</span> cat /etc/philosophy<br/>
-        <span style="color: #d2a8ff;">> "Some look at logs. Others look for bugs."</span><br/>
-        <span style="color: #d2a8ff;">> "I stand in the middle — where systems fight themselves."</span><br/><br/>
-        <span style="color: #00CC88; font-weight: bold;">0xmfbk@lab:~$</span> ./scan.sh --target=reality<br/>
-        <span style="color: #3fb950;">[✓]</span> Infrastructure mapped<br/>
-        <span style="color: #3fb950;">[✓]</span> Attack surface enumerated<br/>
-        <span style="color: #3fb950;">[✓]</span> Blind spots identified<br/>
-        <span style="color: #d29922;">[!]</span> Proceeding with calculated intent<br/><br/>
-        <span style="color: #00CC88; font-weight: bold;">0xmfbk@lab:~$</span> <span style="color: #00CC88;">█</span>
+      <td style="width: 50%; padding: 25px; text-align: left; border-right: 1px dashed #30363d; vertical-align: top;">
+        <span style="color: #00CC88; font-size: 12px; letter-spacing: 1px;">[ INITIATING SEQUENCE ]</span><br/><br/>
+        <span style="color: #00CC88; font-weight: bold; text-shadow: 0 0 5px rgba(0, 204, 136, 0.5);">> OPERATOR:</span> 
+        <span style="color: #ffffff; font-weight: bold;">0xmfbk</span><br/><br/>
+        <span style="color: #00CC88; font-weight: bold;">> ROLE:</span> <br/>
+        <span style="color: #58a6ff;">» Cyber Security Instructor</span><br/>
+        <span style="color: #8b949e; font-size: 13px;">@ CyberA4U · Jr. Offensive Security</span><br/><br/>
+        <span style="color: #00CC88; font-weight: bold;">> PAYLOAD:</span><br/>
+        <span style="color: #d2a8ff;">» DevSecOps</span><br/>
+        <span style="color: #d2a8ff;">» AI Agentic Automation</span><br/><br/>
+        <span style="color: #00CC88; font-size: 12px; letter-spacing: 1px;">[ INFRASTRUCTURE_MAP ]</span><br/>
+        <span style="color: #00CC88;">[████████████████████]</span> <span style="color: #c9d1d9;">100%</span><br/>
+        <span style="color: #00CC88; font-size: 12px; letter-spacing: 1px;">[ ATTACK_SURFACE_ENUM ]</span><br/>
+        <span style="color: #00CC88;">[████████████████████]</span> <span style="color: #c9d1d9;">100%</span>
+      </td>
+      <td style="width: 50%; padding: 25px; text-align: left; vertical-align: top; background-color: rgba(0,0,0,0.2);">
+        <span style="color: #ffbd2e; font-size: 12px; letter-spacing: 1px;">[ ACCESSING PHILOSOPHY.LOG ]</span><br/><br/>
+        <div style="border-left: 2px solid #d2a8ff; padding-left: 10px; margin-bottom: 15px;">
+          <span style="color: #d2a8ff; font-style: italic;">"Some look at logs. Others look for bugs."</span><br/>
+          <span style="color: #d2a8ff; font-style: italic;">"I stand in the middle — where systems fight themselves."</span>
+        </div>
+        <span style="color: #ffbd2e; font-size: 12px; letter-spacing: 1px;">[ SCANNING FOR BLIND SPOTS ]</span><br/><br/>
+        <span style="color: #3fb950;">[✓]</span> <span style="color: #c9d1d9;">eBPF Container Escape Framework</span><br/>
+        <span style="color: #3fb950;">[✓]</span> <span style="color: #c9d1d9;">SecureSK-20 Hashing Module</span><br/>
+        <span style="color: #ff5f56;">[!]</span> <span style="color: #c9d1d9;">Proceeding with calculated intent...</span><br/><br/>
+        <span style="color: #00CC88; font-weight: bold;">> STATUS:</span> <span style="color: #ffffff; background-color: #00CC88; padding: 2px 6px; border-radius: 3px; font-size: 12px; font-weight: bold;">TARGET_LOCKED</span><br/><br/>
+        <span style="color: #8b949e; font-size: 11px;">──────────────────────</span><br/>
+        <span style="color: #00CC88;">█ █ █ █ █ ░ ░ ░ ░ ░</span> <span style="color: #8b949e; font-size: 11px;">SYS_LOAD</span>
+      </td>
+    </tr>
+    <tr style="background-color: rgba(0, 204, 136, 0.05); border-top: 1px solid #30363d;">
+      <td colspan="2" style="padding: 10px; text-align: center; color: #8b949e; font-size: 11px; letter-spacing: 1px;">
+        ⟐ ROOT_ACCESS_GRANTED · CONNECTION SECURED VIA AES-256 ⟐
       </td>
     </tr>
   </table>
