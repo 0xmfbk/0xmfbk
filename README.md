@@ -24,26 +24,35 @@
 
 <br/>
 
-<!-- ══════════════════════════  BOOT LOG  ═════════════════════════════ -->
+<!-- ══════════════════════════  CUSTOM TERMINAL UI  ═════════════════════════════ -->
 
 <div align="center">
-
-```console
-0xmfbk@lab:~$ whoami
-> Cyber Security Instructor @ CyberA4U · Junior Offensive Security Engineer
-> DevSecOps · AI Agentic Automation
-
-0xmfbk@lab:~$ cat /etc/philosophy
-> "Some look at logs. Others look for bugs."
-> "I stand in the middle — where systems fight themselves."
-
-0xmfbk@lab:~$ ./scan.sh --target=reality
-[✓] Infrastructure mapped
-[✓] Attack surface enumerated
-[✓] Blind spots identified
-[!] Proceeding with calculated intent
-```
-
+  <table style="width: 100%; max-width: 850px; margin: 0 auto; border-collapse: collapse; font-family: 'JetBrains Mono', Consolas, monospace; background-color: #0d1117; border-radius: 8px; border: 1px solid #30363d; box-shadow: 0 0 25px rgba(0, 204, 136, 0.15);">
+    <tr>
+      <td style="padding: 10px 15px; background-color: #161b22; border-bottom: 1px solid #30363d; border-radius: 8px 8px 0 0; text-align: left;">
+        <span style="color: #ff5f56; font-size: 14px; margin-right: 6px;">●</span>
+        <span style="color: #ffbd2e; font-size: 14px; margin-right: 6px;">●</span>
+        <span style="color: #27c93f; font-size: 14px; margin-right: 15px;">●</span>
+        <span style="color: #8b949e; font-size: 12px;">0xmfbk@lab: ~</span>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 20px 25px; color: #c9d1d9; font-size: 14px; line-height: 1.7; text-align: left;">
+        <span style="color: #00CC88; font-weight: bold;">0xmfbk@lab:~$</span> whoami<br/>
+        <span style="color: #58a6ff;">> Cyber Security Instructor @ CyberA4U · Junior Offensive Security Engineer</span><br/>
+        <span style="color: #8b949e;">> DevSecOps · AI Agentic Automation</span><br/><br/>
+        <span style="color: #00CC88; font-weight: bold;">0xmfbk@lab:~$</span> cat /etc/philosophy<br/>
+        <span style="color: #d2a8ff;">> "Some look at logs. Others look for bugs."</span><br/>
+        <span style="color: #d2a8ff;">> "I stand in the middle — where systems fight themselves."</span><br/><br/>
+        <span style="color: #00CC88; font-weight: bold;">0xmfbk@lab:~$</span> ./scan.sh --target=reality<br/>
+        <span style="color: #3fb950;">[✓]</span> Infrastructure mapped<br/>
+        <span style="color: #3fb950;">[✓]</span> Attack surface enumerated<br/>
+        <span style="color: #3fb950;">[✓]</span> Blind spots identified<br/>
+        <span style="color: #d29922;">[!]</span> Proceeding with calculated intent<br/><br/>
+        <span style="color: #00CC88; font-weight: bold;">0xmfbk@lab:~$</span> <span style="color: #00CC88;">█</span>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
