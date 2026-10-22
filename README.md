@@ -25,7 +25,23 @@
 <p align="center"><img src="./assets/h-journey.svg" alt="How I got here" width="100%" /></p>
 <p align="center"><img src="./assets/journey.svg" alt="Timeline from 2021 to 2026" width="100%" /></p>
 
-<p align="center"><img src="./assets/builds.svg" alt="Recent builds: Automata Builder, NetRiskScanner, NeuroVisionAI, SecureSK-20" width="100%" /></p>
+<p align="center"><img src="./assets/h-builds.svg" alt="Recent builds" width="100%" /></p>
+
+I build something new most weeks, in different corners of security and beyond. These are pulled live from [github.com/0xmfbk](https://github.com/0xmfbk).
+
+<p align="center"><img src="./assets/builds-ticker.svg" alt="ebpf-container-escape-framework, NetRiskScanner-Tool, SecureSK-20, Automato_Builder, SecureFolderLocker" width="100%" /></p>
+
+<p align="center">
+<a href="https://github.com/0xmfbk/ebpf-container-escape-framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xmfbk&repo=ebpf-container-escape-framework&bg_color=1D1238&title_color=FF8A5B&text_color=D9CFF5&icon_color=C9A7FF&border_color=7C6BD6&hide_border=false" alt="ebpf-container-escape-framework" /></a>
+<a href="https://github.com/0xmfbk/NetRiskScanner-Tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xmfbk&repo=NetRiskScanner-Tool&bg_color=1D1238&title_color=FF8A5B&text_color=D9CFF5&icon_color=C9A7FF&border_color=7C6BD6&hide_border=false" alt="NetRiskScanner-Tool" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/0xmfbk/SecureSK-20"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xmfbk&repo=SecureSK-20&bg_color=1D1238&title_color=FF8A5B&text_color=D9CFF5&icon_color=C9A7FF&border_color=7C6BD6&hide_border=false" alt="SecureSK-20" /></a>
+<a href="https://github.com/0xmfbk/Automato_Builder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xmfbk&repo=Automato_Builder&bg_color=1D1238&title_color=FF8A5B&text_color=D9CFF5&icon_color=C9A7FF&border_color=7C6BD6&hide_border=false" alt="Automato_Builder" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/0xmfbk/SecureFolderLocker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xmfbk&repo=SecureFolderLocker&bg_color=1D1238&title_color=FF8A5B&text_color=D9CFF5&icon_color=C9A7FF&border_color=7C6BD6&hide_border=false" alt="SecureFolderLocker" /></a>
+</p>
 
 <p align="center"><img src="./assets/h-toolkit.svg" alt="Toolkit" width="100%" /></p>
 
