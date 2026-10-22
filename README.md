@@ -30,7 +30,8 @@
 
 ```console
 0xmfbk@lab:~$ whoami
-> Web App Penetration Tester · DevSecOps · AI Agentic Automation
+> Cyber Security Instructor @ CyberA4U · Junior Offensive Security Engineer
+> DevSecOps · AI Agentic Automation
 
 0xmfbk@lab:~$ cat /etc/philosophy
 > "Some look at logs. Others look for bugs."
@@ -49,17 +50,19 @@
 
 <!-- ══════════════════════════  REALITY  ═════════════════════════════ -->
 
-## <img src="https://api.iconify.design/ph:crosshair-duotone.svg?color=%2300CC88" width="26" height="26" align="top" /> The Reality of My Approach
+## 🎯 The Reality of My Approach
 
 Some look at logs, others look for bugs. I prefer to stand right in the middle — mostly because watching a system fight itself from both sides is where true security happens.
 
 My work is built on an absolute ground-floor reality: troubleshooting critical hardware flaws, managing multi-platform (Windows & Linux) server environments, and finding where infrastructure actually chokes under pressure. I combine that structural knowledge with a calculated offensive mindset to hunt web application vulnerabilities before actual malicious actors do.
 
+I also build practical tools that bridge the gap between theory and reality — like the **eBPF Container Escape Framework** for runtime audit, and **SecureSK-20** for secure hashing and encryption.
+
 <br/>
 
 <!-- ═══════════════════════  FOCUS AREAS  ══════════════════════════ -->
 
-## <img src="https://api.iconify.design/ph:target-duotone.svg?color=%2300CC88" width="26" height="26" align="top" /> Technical Focus Areas
+## 💻 Technical Focus Areas
 
 <table>
 <tr>
@@ -90,7 +93,7 @@ My work is built on an absolute ground-floor reality: troubleshooting critical h
 
 <!-- ══════════════════════════  ARSENAL  ═══════════════════════════ -->
 
-## <img src="https://api.iconify.design/ph:terminal-window-duotone.svg?color=%2300CC88" width="26" height="26" align="top" /> Arsenal
+## 🧰 Arsenal
 
 <div align="center">
 
@@ -102,7 +105,7 @@ My work is built on an absolute ground-floor reality: troubleshooting critical h
 
 <!-- ══════════════════════════  STATS  ═════════════════════════════ -->
 
-## <img src="https://api.iconify.design/ph:chart-line-duotone.svg?color=%2300CC88" width="26" height="26" align="top" /> Signal in the Noise
+## 📊 Signal in the Noise
 
 <div align="center">
 
@@ -131,7 +134,7 @@ My work is built on an absolute ground-floor reality: troubleshooting critical h
 
 <!-- ══════════════════════════  PERSPECTIVE  ═══════════════════════ -->
 
-## <img src="https://api.iconify.design/ph:quotes-duotone.svg?color=%2300CC88" width="26" height="26" align="top" /> Perspective
+## ❝ Perspective
 
 <div align="center">
 
